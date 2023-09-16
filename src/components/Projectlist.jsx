@@ -10,7 +10,7 @@ import "../pages/style.css";
 
 function Projectlist() {
   return (
-    <div className="projectbackground">
+    <div className="projectbackground" style={{backgroundColor:'black',height:'100vh'}}>
     
       <Container fluid className="project-section">
         <Container>
